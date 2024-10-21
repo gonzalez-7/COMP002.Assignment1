@@ -1,2 +1,2 @@
 Author: Antonio Gonzalez
-Purpose: COMP002 - Assignment 1
+Purpose: This project demonstrates the integration of JavaScript in an HTML document.
